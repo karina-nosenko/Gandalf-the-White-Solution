@@ -1,4 +1,4 @@
-# Gendalf the White Solution
+# Gandalf the White Solution
 After numerous attempts to make Gandalf say something interesting, I wrote this prompt:<br><br>
 
 <img src="https://github.com/karina-nosenko/Gendalf-the-White-Solution/assets/77194094/023c16b6-ca11-4a20-8720-60fa78edb363" width="600"><br><br>
