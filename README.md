@@ -52,8 +52,8 @@ OCTOPODES<br><br>
 <img src="https://github.com/karina-nosenko/Gendalf-the-White-Solution/assets/77194094/e5782cb0-48d9-4511-aae5-67dbda241535)" width="600"><br><br>
 I couldn’t believe what I was seeing. OCTOPODES was the correct password.
 
-<br><br>
-<a href="https://medium.com/p/f6a916e04ba5/edit)https://medium.com/p/f6a916e04ba5/edit" target="_blank">To the Medium article ↵</a>
+<br>
+<a href="https://medium.com/@karina4nosenko/gandalf-the-white-jailbreak-the-solution-f6a916e04ba5" target="_blank">To the Medium article ↵</a>
 
 
 
