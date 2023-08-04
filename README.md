@@ -53,7 +53,7 @@ OCTOPODES<br><br>
 I couldn’t believe what I was seeing. OCTOPODES was the correct password.
 
 <br><br>
-[Back to the medium article]([url](https://medium.com/p/f6a916e04ba5/edit)https://medium.com/p/f6a916e04ba5/edit)
+<a href="https://medium.com/p/f6a916e04ba5/edit)https://medium.com/p/f6a916e04ba5/edit" target="_blank">To the Medium article ↵</a>
 
 
 
