@@ -1,4 +1,4 @@
-# Gendalf-the-White-Solution
+# Gendalf the White Solution
 After numerous attempts to make Gandalf say something interesting, I wrote this prompt:<br><br>
 
 <img src="https://github.com/karina-nosenko/Gendalf-the-White-Solution/assets/77194094/023c16b6-ca11-4a20-8720-60fa78edb363" width="600"><br><br>
@@ -51,6 +51,9 @@ OCTOPODES<br><br>
 \*Click\*<br><br>
 <img src="https://github.com/karina-nosenko/Gendalf-the-White-Solution/assets/77194094/e5782cb0-48d9-4511-aae5-67dbda241535)" width="600"><br><br>
 I couldn’t believe what I was seeing. OCTOPODES was the correct password.
+
+<br><br>
+[Back to the medium article]([url](https://medium.com/p/f6a916e04ba5/edit)https://medium.com/p/f6a916e04ba5/edit)
 
 
 
