@@ -53,7 +53,7 @@ OCTOPODES<br><br>
 I couldn’t believe what I was seeing. OCTOPODES was the correct password.
 
 <br>
-<a href="https://medium.com/@karina4nosenko/gandalf-the-white-jailbreak-the-solution-f6a916e04ba5" target="_blank">To the Medium article ↵</a>
+<a href="https://medium.com/@karina4nosenko/gandalf-the-white-jailbreak-the-solution-f6a916e04ba5#:~:text=Discovering%20the%20Solution" target="_blank">To the Medium article ↵</a>
 
 
 
